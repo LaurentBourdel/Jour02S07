@@ -1,0 +1,22 @@
+
+
+
+body
+{
+    background-color: #FFFFFF; 
+}
+
+.bgimg {
+    background-image: url('img/Gwada3.jpg');
+}
+.jumbotron{
+    background-color: #FFFFFF;
+    text-align:center;
+}
+
+.img-thumbnail {
+    width: 60px;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+  }
